@@ -1,0 +1,17 @@
+{
+  "name": "passGen",
+  "version": "1.0.0",
+  "description": "Simple CLI Password Generator",
+  "main": "index.js",
+  "bin": {
+    "passGen": "index.js"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Fauzira Alpiandi",
+  "license": "MIT",
+  "dependencies": {
+    "crypto": "^1.0.1"
+  }
+}
